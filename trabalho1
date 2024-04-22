@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Trabalho do Zé das Couves </title>  <!-- TÍTULO QUE VAI NA ABA DA SUA PÁGINA -->
+</head>
+<body>
+    <h1>Vamos ser felizes! </h1>  <!-- PARÁGRAFO INICIAL DA SUA PÁGINA (h representa o tamanho do texto) -->
+
+    <p id="frase_motivacional"> Rosa são vermelhas, violetas são azuis... se você não gosta de mim! Vai Tomar um suco!</p>
+
+    <h2>Vídeos Inspiradores</h2>
+    <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/U1eSUATyRLk?si=GAk07hYZGBNlJi2e&amp;start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    
+    <div>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/MO4_R6OGJ58?si=oj_5bSzIoq1407vF&amp;start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</body>
+</html>
